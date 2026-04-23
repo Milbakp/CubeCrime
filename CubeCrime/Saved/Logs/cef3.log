@@ -1,17 +1,12 @@
-[41588:38896:0417/213507.930:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[41588:32640:0417/213507.969:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[41588:38896:0417/213507.994:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[38688:38384:0417/213513.575:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-08433261B9DFD6E60AEDB45E593A3EC5 will be ignored
-[41588:21520:0417/213513.878:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[41588:38896:0417/213513.961:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[41588:38896:0417/213513.962:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[41588:38896:0417/213513.962:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[41588:38896:0417/213513.962:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[41588:21520:0417/213513.975:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[27048:39268:0417/213515.361:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[27048:39268:0417/213516.069:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[27048:2284:0417/213516.092:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[27048:2284:0417/213516.093:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[27048:2284:0417/213516.094:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[31896:41436:0417/213721.452:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[41588:38896:0417/214730.245:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[15600:34764:0419/142214.207:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15600:21336:0419/142214.351:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15600:34764:0419/142214.416:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23112:41036:0419/142218.387:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-33A3F4F21A9073118EFA311CAC148BB6 will be ignored
+[15600:37508:0419/142218.843:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[15600:34764:0419/142218.941:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15600:34764:0419/142218.941:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15600:34764:0419/142218.942:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15600:34764:0419/142218.942:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15600:37508:0419/142218.944:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[21092:18996:0419/142428.936:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15600:34764:0419/164325.652:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
